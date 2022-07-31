@@ -20,3 +20,4 @@ Use the Issues tab above or jump directly to the issue tracker [HERE](https://gi
  
  * MCU/DSP 2.90/1.52 (2017-12-10)
  * MCU/DSP 2.95/1.52 (2020-12-14)
+ * MCU/DSP 3.02/1.52 (2022-03-21)
